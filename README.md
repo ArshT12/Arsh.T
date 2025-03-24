@@ -31,7 +31,8 @@
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-008080?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Communication](https://img.shields.io/badge/Communication-ff0000?style=flat&logoColor=white)]()
 [![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-0077B5?style=flat&logoColor=white)]()
-
+## StackOverflow
+[![StackOverflow](https://stackoverflow.com/users/flair/15903785.png)](https://stackoverflow.com/users/15903785/Arsh.T)
 
 
 ## 📊 GitHub Stats
