@@ -33,7 +33,8 @@
 [![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-0077B5?style=flat&logoColor=white)]()
 
 ## Visitors
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ArshT12.Intrusion-Detection-System)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ArshT12.ArshT12)
+
 
 
 ## 📊 GitHub Stats
@@ -42,4 +43,6 @@
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshT12&layout=compact&theme=dark)
+
+![My GitHub Skyline](https://skyline.github.com/ArshT12)
 
