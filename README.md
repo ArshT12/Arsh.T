@@ -14,7 +14,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arsh_Tandon/)
 
 ## Tech Stack
-<img src="https://raw.githubusercontent.com/ArshT12/Arsh.T/main/Cat%20Working%20GIF.gif" alt="Cat Working GIF" width="300" />
+<img src="https://raw.githubusercontent.com/ArshT12/Arsh.T/main/Cat%20Working%20GIF.gif" alt="Cat Working GIF" width="200" />
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
