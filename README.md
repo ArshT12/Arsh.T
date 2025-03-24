@@ -13,9 +13,8 @@
 [![Codecademy](https://img.shields.io/badge/Codecademy-FECF00?style=flat&logo=codecademy&logoColor=black)](https://www.codecademy.com/profiles/arsh.T4886296798)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arsh_Tandon/)
 
-<img src="https://raw.githubusercontent.com/ArshT12/Arsh.T/main/Cat%20Working%20GIF.gif" alt="Cat Working GIF" width="300" />
-
 ## Tech Stack
+<img src="https://raw.githubusercontent.com/ArshT12/Arsh.T/main/Cat%20Working%20GIF.gif" alt="Cat Working GIF" width="300" />
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
