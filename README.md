@@ -13,7 +13,7 @@
 [![Codecademy](https://img.shields.io/badge/Codecademy-FECF00?style=flat&logo=codecademy&logoColor=black)](https://www.codecademy.com/profiles/arsh.T4886296798)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arsh_Tandon/)
 
-![Cat Working GIF](https://raw.githubusercontent.com/ArshT12/Arsh.T/main/Cat%20Working%20GIF.gif)
+<img src="https://raw.githubusercontent.com/ArshT12/Arsh.T/main/Cat%20Working%20GIF.gif" alt="Cat Working GIF" width="300" />
 
 ## Tech Stack
 
