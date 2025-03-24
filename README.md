@@ -32,6 +32,10 @@
 [![Communication](https://img.shields.io/badge/Communication-ff0000?style=flat&logoColor=white)]()
 [![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-0077B5?style=flat&logoColor=white)]()
 
+## Visitors
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ArshT12.Intrusion-Detection-System)
+
+
 ## 📊 GitHub Stats
 <!-- Overall Stats Card -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshT12&show_icons=true&theme=dark)
