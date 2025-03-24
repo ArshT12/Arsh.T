@@ -32,9 +32,6 @@
 [![Communication](https://img.shields.io/badge/Communication-ff0000?style=flat&logoColor=white)]()
 [![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-0077B5?style=flat&logoColor=white)]()
 
-## Visitors
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ArshT12.ArshT12)
-
 
 
 ## 📊 GitHub Stats
@@ -44,5 +41,6 @@
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshT12&layout=compact&theme=dark)
 
-![My GitHub Skyline](https://skyline.github.com/ArshT12)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ArshT12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
