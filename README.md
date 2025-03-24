@@ -13,6 +13,8 @@
 [![Codecademy](https://img.shields.io/badge/Codecademy-FECF00?style=flat&logo=codecademy&logoColor=black)](https://www.codecademy.com/profiles/arsh.T4886296798)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arsh_Tandon/)
 
+![Cat Working GIF](https://raw.githubusercontent.com/ArshT12/Arsh.T/main/Cat%20Working%20GIF.gif)
+
 ## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -31,8 +33,6 @@
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-008080?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Communication](https://img.shields.io/badge/Communication-ff0000?style=flat&logoColor=white)]()
 [![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-0077B5?style=flat&logoColor=white)]()
-## StackOverflow
-[![StackOverflow](https://stackoverflow.com/users/flair/15903785.png)](https://stackoverflow.com/users/15903785/Arsh.T)
 
 
 ## 📊 GitHub Stats
